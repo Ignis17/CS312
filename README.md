@@ -6,3 +6,4 @@
 - Homework Assignments 
 - Lab Assignments 
 - Textbook & Solutions
+- Final Project
